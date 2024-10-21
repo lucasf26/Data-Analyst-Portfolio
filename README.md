@@ -13,7 +13,7 @@ My CV in: (soon)
 * Python (Numpy, Pandas, Matplotlib, Seaborn, Sci-Kit Learn, Keras).
 * SQLite.
 * Excel.
-* Matlab and Octave.
+* Matlab/Octave.
 * Fortran 77/90.
 * Git.
 * English, intermediate.
