@@ -15,7 +15,7 @@ My CV in: (soon)
 * Excel.
 * Matlab and Octave.
 * Fortran 77/90.
-* C/C++.
+* Git.
 * English, intermediate.
 
 ## Portfolio Projects:
@@ -37,12 +37,12 @@ My CV in: (soon)
 **Technology:** Python, Numpy, Pandas, Matplotlib, SKLearn. 
 
 ## Relevant Courses:
-* [What is Data Science? (IBM) - Coursera](https://coursera.org/share/b225eee19a7e167450261610a4803ff5)
-* [Python for Data Science, AI & Development (IBM) - Coursera](https://coursera.org/share/b225eee19a7e167450261610a4803ff5).
-* [Machine Learning (Stanford Online) - Coursera](https://coursera.org/share/7ada6bf0fb150fa30fa601287d1142e0)
-* [Python (Kaggle)](https://www.kaggle.com/learn/certification/lucasferraris/python)
-* [Pandas (Kaggle)](https://www.kaggle.com/learn/certification/lucasferraris/pandas)
-* Fundamentos de Aprendizaje Automático, postgrade course (Instituto Balseiro)
+* What is Data Science? (IBM) - [(Coursera certificate)](https://coursera.org/share/b225eee19a7e167450261610a4803ff5)
+* Python for Data Science, AI & Development (IBM) - [(Coursera certificate)](https://coursera.org/share/b225eee19a7e167450261610a4803ff5).
+* Machine Learning (Stanford Online) - [(Coursera certificate)](https://coursera.org/share/7ada6bf0fb150fa30fa601287d1142e0)
+* Python [(Kaggle certificate)](https://www.kaggle.com/learn/certification/lucasferraris/python)
+* Pandas [(Kaggle certificate)](https://www.kaggle.com/learn/certification/lucasferraris/pandas)
+* Fundamentos de Aprendizaje Automático, postgrade course (from April to June 2024, Instituto Balseiro, Bariloche)
 
 ## Contact:
 - [LinkedIn](https://www.linkedin.com/in/lucas-ferraris-0a0823a3/)
