@@ -6,7 +6,7 @@ During my studies and jobs, I have developed a strong foundation in mathematics 
 
 I am excited to bring my analytical skills to the field of data science.
 
-My CV in: (soon)
+My CV in:
 
 ## Relevant skills:
 * Strong foundation in math: algebra, calculus, statistics and probab. 
@@ -15,8 +15,8 @@ My CV in: (soon)
 * Excel.
 * Matlab/Octave.
 * Fortran 77/90.
-* Git.
-* English, intermediate.
+* Git/GitHub.
+* English (intermediate).
 
 ## Portfolio Projects:
 
@@ -35,6 +35,14 @@ My CV in: (soon)
 **Description:** The project includes the following steps: data loading and a brief EDA, PCA to make a dimensional reduction and then regression using logistic model.
 
 **Technology:** Python, Numpy, Pandas, Matplotlib, SKLearn. 
+
+### [RAG: Spotify transcriptions dataset](https://github.com/lucasf26/RAG---Langchain-Chroma-Gemini-HuggingFace_Spotify-transcriptions)
+
+**Goal:** Create a RAG to answer questions about Spotify transcriptions.
+
+**Description:** The project includes the following steps: data loading, create a Chroma database with text chunks and embeddings, and finally send a prompt to Gemini and receive answer.
+
+**Technology:** Python, Pandas, Langchain, embeddings, API's. 
 
 ## Relevant Courses:
 * What is Data Science? (IBM) - [(Coursera certificate)](https://coursera.org/share/b225eee19a7e167450261610a4803ff5)
