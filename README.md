@@ -48,7 +48,7 @@ I am excited to bring my analytical skills to the field of data science.
 
 **Description:** data loading, create a Chroma database with text chunks and embeddings, and finally send a prompt to Gemini and receive answer.
 
-**Technology:** Python, Pandas, Langchain, embeddings, Gemini API. 
+**Technology:** Python, Pandas, Langchain, embeddings, Chroma, Gemini API. 
 
 ## Relevant Courses:
 * What is Data Science? (IBM) - [(Coursera certificate)](https://coursera.org/share/b225eee19a7e167450261610a4803ff5)
