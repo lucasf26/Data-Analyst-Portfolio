@@ -50,14 +50,6 @@ I am excited to bring my analytical skills to the field of data science.
 
 **Technology:** Python, Pandas, Langchain, embeddings, Chroma, Gemini API. 
 
-## Relevant Courses:
-* What is Data Science? (IBM) - [(Coursera certificate)](https://coursera.org/share/b225eee19a7e167450261610a4803ff5)
-* Python for Data Science, AI & Development (IBM) - [(Coursera certificate)](https://coursera.org/share/b225eee19a7e167450261610a4803ff5).
-* Machine Learning (Stanford Online) - [(Coursera certificate)](https://coursera.org/share/7ada6bf0fb150fa30fa601287d1142e0)
-* Python [(Kaggle certificate)](https://www.kaggle.com/learn/certification/lucasferraris/python)
-* Pandas [(Kaggle certificate)](https://www.kaggle.com/learn/certification/lucasferraris/pandas)
-* Fundamentos de Aprendizaje Automático, postgrade course (from April to June 2024, Instituto Balseiro, Bariloche)
-
 ## Contact:
-- [LinkedIn](https://www.linkedin.com/in/lucas-ferraris-0a0823a3/)
+- [LinkedIn](https://www.linkedin.com/in/lucasf2606/)
 - Email: lucasf.2606@gmail.com
